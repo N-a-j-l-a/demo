@@ -1,0 +1,1 @@
+Hello, just another test to rename a file with git
